@@ -1,4 +1,0 @@
-hello shaikh
-this is the second commit
-the problem of pushing the code is solved
-hello shaikh work on the git diff command
