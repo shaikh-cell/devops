@@ -1,7 +1,10 @@
-this is the code written for the better functionality of the flipkart app
-the given code is mandatory to run the application
-the code goes here
-checking for the credential stored or not
+public class login {
+	public static void main () {
+		int i;
+		fot (i=0;i<=20;i++) {
+			system.out.println("Number: " + i);
+		}
+	}
+}
 
-hello shaikh
 
